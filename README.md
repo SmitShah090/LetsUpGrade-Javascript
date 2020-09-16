@@ -1,3 +1,3 @@
 # LetsUpGrade-Javascript
 
-Notes of Javascript (ES-6) & assigments
+Javascript's notes (ES-6) & assigments
